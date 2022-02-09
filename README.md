@@ -8,7 +8,7 @@ DevOps and Web Intern | ProtonAutoML Pvt Ltd. | Nov 2020 - Aug 2021 | 10 mos
 - Developed a backend interface that interacts with the company’s data processing code layer.
 - Helped in designing backend features with frontend team that enhances ease of use for users.
   - ` Sign Up,Sign In,User Authentication,User Email Templating `
-- Intergrated SaaS platforms with the application.
+- Integrated SaaS platforms with the application.
 - Integrated Payment Module on subscription (monthly/yearly) bases.
 - Maintained code repositories and managed their deployment to testing and production instances.
  
