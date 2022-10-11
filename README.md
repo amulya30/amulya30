@@ -9,7 +9,7 @@ DevOps and Web Intern | ProtonAutoML Pvt Ltd. | Nov 2020 - Aug 2021 | 9 months
 - Helped in designing backend features with frontend team that enhances ease of use for users.
   - ` Sign Up,Sign In,User Authentication,User Email Templating `
 - Integrated SaaS platforms with the application.
-- Integrated Payment Module on subscription (monthly/yearly) bases.
+- Integrated Payment Module on subscription (monthly/yearly) basis.
 - Maintained code repositories and managed their deployment to testing and production instances.
 
 ### Let's build and grow together 🤝
