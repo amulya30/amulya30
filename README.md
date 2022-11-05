@@ -1,18 +1,65 @@
-### About Me 👋
-A master's graduate in computer applications who is also an enthusiastic coder that likes to develop new things. I always like finding a solution to any real-life problem with my acquired skills. 
+<h1 align="center"> Welcome, Dear Visitor👋
 
-### Work Experience 💻
-DevOps and Web Intern | ProtonAutoML Pvt Ltd. | Nov 2020 - Aug 2021 | 9 months
+<h4 align="center"> Hi, welcome to my remote lab! I am glad you visited here. Let me tell you about myself! I am an explorer who maps and filters the problem to create a new creative solution.</h4>
 
-- Contributed by proposing the initial developmental architecture of the application.
-- Developed an interface that interacts between the company’s front end and the data science layer.
-- Helped in designing backend features with frontend team that enhances ease of use for users.
-  - ` Sign Up,Sign In,User Authentication,User Email Templating `
-- Integrated SaaS platforms with the application.
-- Integrated Payment Module on subscription (monthly/yearly) basis.
-- Maintained code repositories and managed their deployment to testing and production instances.
+### Experiments
 
-### Let's build and grow together 🤝
-- 📫 You can reach me at my email - amulyagupta97@gmail.com 
-- 🔗 Connect with me at - <a href="https://www.linkedin.com/in/amulyagupta/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/18/000000/external-linkedin-a-business-and-employment-oriented-service-mobile-app-logo-color-tal-revivo.png"/></a>
+<table>
+    <tr>
+      <th> Files</th>
+      <th> Experiment Name </th>
+      <th> Subject Status </th>
+    </tr>
+    <tr>
+      <td>:open_file_folder:</td>
+      <td align="center">PhoneBook</td>
+      <td><a href="https://github.com/amulya30/PhoneBook_CRUD">Have a look :eyes:</a></td>
+    </tr>
+     <tr>
+      <td>:open_file_folder:</td>
+      <td align="center">Text Similarity API</td>
+      <td><a href="https://github.com/amulya30/Text_Similarity_API">Have a look :eyes:</a></td>
+    </tr>
+    <tr>
+      <td>:open_file_folder:</td>
+      <td>Bitcoin Price Monitoring System</td>
+      <td><a href="https://github.com/amulya30/Bitcoin-Monitoring_System">Have a look :eyes:</a></td>
+    </tr>
+</table>
 
+### Development Powers
+![My Skills](https://skills.thijs.gg/icons?i=mongodb,expressjs,react,nodejs,mysql,javascript,python,flask,php,html,css&theme=dark)     
+
+### Deployment Powers
+![My Skills](https://skills.thijs.gg/icons?i=docker,aws,heroku&theme=dark)
+
+### Distributed Code Versioning Powers
+![My Skills](https://skills.thijs.gg/icons?i=git,github&theme=dark)
+
+### System Interaction Power
+![My Skills](https://skills.thijs.gg/icons?i=linux&theme=dark)
+
+### Want To Experiment Together 🤝 
+
+<table>
+    <tr>
+      <td>📫 Send An Email</td>
+      <td><a href="mailto:amulyagupta97@gmail.com">amulyagupta97@gmail.com</a></email></td>
+      <td><a href="mailto:amulyagupta97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
+    </tr>
+     <tr>
+      <td>💾 Follow My Github</td>
+      <td><a href="https://github.com/amulya30">amulya30</a></td>
+      <td><a href="https://github.com/amulya30"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github"/></a></td>
+    </tr>
+</table>
+
+### Contact Me Here
+<a href="https://www.linkedin.com/in/amulyagupta/">![LinkedIn](https://skills.thijs.gg/icons?i=linkedin&theme=light)</a>
+
+<i>
+Yours Truly,
+<br><a href="mailto:amulyagupta97@gmail.com">Amulya Gupta</a><br> 
+Made with :brain: <br>
+On :earth_asia:
+</i>
