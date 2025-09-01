@@ -28,16 +28,16 @@
 </table>
 
 ### Development Powers
-![My Skills](https://skills.thijs.gg/icons?i=mongodb,expressjs,react,nodejs,mysql,javascript,python,flask,php,html,css&theme=dark)     
+![My Skills](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,mysql,javascript,python,flask,php,html,css&theme=dark)     
 
 ### Deployment Powers
-![My Skills](https://skills.thijs.gg/icons?i=docker,aws,heroku&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=docker,aws,heroku&theme=dark)
 
 ### Distributed Code Versioning Powers
-![My Skills](https://skills.thijs.gg/icons?i=git,github&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)
 
 ### System Interaction Power
-![My Skills](https://skills.thijs.gg/icons?i=linux&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)
 
 ### Want To Experiment Together 🤝 
 
@@ -55,7 +55,7 @@
 </table>
 
 ### Contact Me Here
-<a href="https://www.linkedin.com/in/amulyagupta/">![LinkedIn](https://skills.thijs.gg/icons?i=linkedin&theme=light)</a>
+<a href="https://www.linkedin.com/in/amulyagupta/">![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)</a>
 
 <i>
 Yours Truly,
